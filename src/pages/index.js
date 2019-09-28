@@ -80,9 +80,9 @@ Otherwise, hourly rates will be applied
             <footer className="major">
               <ul className="actions">
                 <li>
-                  <Link to="/generic" className="button">
-                    Learn More
-                  </Link>
+                  <a href='https://www.google.com/maps/place/Cafeoke+Ding+Dong+Dang/@33.773241,-117.9648558,17z/data=!3m1!4b1!4m5!3m4!1s0x80dd287a2c42064b:0xe77bd9285e4ede8!8m2!3d33.773241!4d-117.9626671' className="button">
+                    Come Find Us!
+                  </a>
                 </li>
               </ul>
             </footer>
