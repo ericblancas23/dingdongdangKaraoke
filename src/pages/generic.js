@@ -15,7 +15,7 @@ class Generic extends React.Component {
         <HeaderGeneric />
         <div id="main">
           <section id="content" className="main">
-            <span className="image main"><img src={pic04} alt="" /></span>
+            <span className="image main"><img src={require('../assets/images/venue1.jpeg')} alt="" /></span>
             <h2>Learn About Our Rates And Specials!</h2>
             <p>Our Specials consists of Happy hours and also Birthday Specials!. With outstanding service and your enjoyment 
               we will always accomodate to make your experience enjoyable!
