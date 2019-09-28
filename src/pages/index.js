@@ -6,7 +6,7 @@ import pic01 from '../assets/images/pic01.jpg'
 import Header from '../components/Header'
 import Layout from '../components/layout'
 import Nav from '../components/Nav'
-import Carousel from 'nuka-carousel'
+// import Carousel from 'nuka-carousel'
 
 class Index extends React.Component {
   constructor(props) {
@@ -96,13 +96,13 @@ Otherwise, hourly rates will be applied
               </p>
             </header>
             <center>
-            <Carousel style={{ 'height':'600px', 'width':'750px' }} autoplay={true} speed={1}>
+            {/* <Carousel style={{ 'height':'600px', 'width':'750px' }} autoplay={true} speed={1}> */}
                 <img src={require('../assets/images/venue1.jpeg')} style={{ 'height': 'auto', 'width': '100%'}}/>
                 <img src={require('../assets/images/venue2.jpeg')}  style={{ 'height': 'auto', 'width': '100%'}}/>
                 <img src={require('../assets/images/venue3.jpeg')}  style={{ 'height': 'auto', 'width': '100%'}}/>
                 <img src={require('../assets/images/venue4.jpeg')}  style={{ 'height': 'auto', 'width': '100%'}}/>
                 <img src={require('../assets/images/venue5.jpeg')}  style={{ 'height': 'auto', 'width': '100%'}}/>
-            </Carousel>
+            {/* </Carousel> */}
             </center>
             <footer className="major">
               <ul className="actions">
