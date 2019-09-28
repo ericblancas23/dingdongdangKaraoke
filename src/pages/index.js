@@ -97,11 +97,11 @@ Otherwise, hourly rates will be applied
             </header>
             <center>
             {/* <Carousel style={{ 'height':'600px', 'width':'750px' }} autoplay={true} speed={1}> */}
-                <img src={require('../assets/images/venue1.jpeg')} style={{ 'height': '500px'}}/>
-                <img src={require('../assets/images/venue2.jpeg')}  style={{ 'height': '500px'}}/>
-                <img src={require('../assets/images/venue3.jpeg')}  style={{ 'height': '500px'}}/>
-                <img src={require('../assets/images/venue4.jpeg')}  style={{ 'height': '500px'}}/>
-                <img src={require('../assets/images/venue5.jpeg')}  style={{ 'height': '500px'}}/>
+                <img src={require('../assets/images/venue1.jpeg')} style={{ 'height': '30rem'}}/>
+                <img src={require('../assets/images/venue2.jpeg')}  style={{ 'height': '30rem'}}/>
+                <img src={require('../assets/images/venue3.jpeg')}  style={{ 'height': '30rem'}}/>
+                <img src={require('../assets/images/venue4.jpeg')}  style={{ 'height': '30rem'}}/>
+                <img src={require('../assets/images/venue5.jpeg')}  style={{ 'height': '30rem'}}/>
             {/* </Carousel> */}
             </center>
             <footer className="major">
